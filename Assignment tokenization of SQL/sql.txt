@@ -1,0 +1,4 @@
+CREATE TABLE students (id INT, name VARCHAR);
+INSERT INTO students VALUES (1, "John");
+SELECT * FROM students;
+"unterminated string
